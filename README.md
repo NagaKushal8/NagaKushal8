@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NagaKushal8
-- 👀 I’m interested in datascience , machine learning , deep learning.
-- 🌱 I’m currently learning Datascience.
-- 📫 How to reach me kushal.ageeru@gmail.com
+- 👋 Hi, I’m Naga Kushal Ageeru
+- 👀 I’m interested in Datascience , Machine learning , Deep learning.
+- 🌱 I’m currently pursuing masters in Datascience from Northeastern University.
+- 📫 How to reach me? ->  kushal.ageeru@gmail.com
 
 <!---
 NagaKushal8/NagaKushal8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
