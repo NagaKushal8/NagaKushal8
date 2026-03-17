@@ -5,18 +5,9 @@ Looking for new oppurtunites ! Feel free to reach out :)
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
-<a href="mailto:kushal.ageeru@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/naga-kushal-ageeru-28b13a1ba/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@kushal.ageeru" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
-</a>
+<a href="mailto:kushal.ageeru@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/naga-kushal-ageeru-28b13a1ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@kushal.ageeru" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
 
 
 # 💻 Tech Stack:
